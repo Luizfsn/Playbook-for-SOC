@@ -235,7 +235,7 @@
 
     • Conter os pontos de extremidade infectados imediatamente. Desligue-os, se possível.
     • Se o backup estiver disponível para todos os sistemas afetados, reconstrua-os a partir da última cópia em boas condições.• Já deve ser bem conhecido que um espelho de dados on-line não pode remediar o risco de Ransomware, pois a cópia também pode ser corrompida.
-Somente uma cópia offline com um cronograma de retenção adequado pode ser protegida contra adulteração e deve ser obrigatória em todos os dados.
+    • Somente uma cópia offline com um cronograma de retenção adequado pode ser protegida contra adulteração e deve ser obrigatória em todos os dados.
     • Acompanhe a causa raiz da infecção pelo Ransomware e acompanhe sua remediação.
     
     
