@@ -7,7 +7,7 @@
  
  001. **Attack utilizing a know vulnerability** / **Ataque utilizando uma vulnerabilidade conhecida**
 
-*Foi detectado um intruso que utiliza uma vulnerabilidade conhecida.
+*Foi detectado um intruso que utiliza uma vulnerabilidade conhecida.*
 
 **Detecção**:
     
@@ -35,7 +35,7 @@
 
 002. **New vulnerability from Threat Intelligence** / **Nova vulnerabilidade do Threat Intelligence**
 
-*Sem dúvida, o que você mais executará, uma nova vulnerabilidade da inteligência de ameaças.
+*Sem dúvida, o que você mais executará, uma nova vulnerabilidade da inteligência de ameaças.*
 
 **Detecção**:
 
@@ -65,7 +65,7 @@
 
 003. **Unauthorized privileged access** / **Acesso privilegiado não autorizado**
 
-*Muitas organizações estão usando sistemas de gerenciamento de acesso privilegiado e podemos fazer uso dele para identificar o uso não autorizado, o que é muito útil para detectar credenciais roubadas.
+*Muitas organizações estão usando sistemas de gerenciamento de acesso privilegiado e podemos fazer uso dele para identificar o uso não autorizado, o que é muito útil para detectar credenciais roubadas.*
 
 **Detecção**:
 
@@ -88,7 +88,7 @@
 
 004. **Phishing email** / **E-mail de phishing**
 
-*Aqui lidamos com e-mails de phishing com carga útil ou links maliciosos. Aqueles com conteúdo de texto apenas (por exemplo, golpes de contas a pagar) podem ser tratados com outra cartilha mais simples.
+*Aqui lidamos com e-mails de phishing com carga útil ou links maliciosos. Aqueles com conteúdo de texto apenas (por exemplo, golpes de contas a pagar) podem ser tratados com outra cartilha mais simples.*
 
 **Detecção**:
 
@@ -125,7 +125,7 @@
 
 005. **Confidential data on Internet** / **Dados confidenciais na Internet**
 
-*Ele descreve o que fazer em dados notáveis descobertos por inteligência de ameaças na Internet.
+*Ele descreve o que fazer em dados notáveis descobertos por inteligência de ameaças na Internet.*
 
 ***Detecção**:
 
@@ -154,7 +154,7 @@
 
 006. **Fraudulent Websites** / **Sites fraudulentos**
 
-*Eles fingem ser sua organização e tentam espalhar informações falsas, coletar dados de seus clientes, espalhar software mal-intencionado ou mais.
+*Eles fingem ser sua organização e tentam espalhar informações falsas, coletar dados de seus clientes, espalhar software mal-intencionado ou mais.*
 
 **Detecção**:
 
@@ -185,7 +185,7 @@
   
 007. **Brute Force Authentication** / **Autenticação por Força Bruta**
 
-*Os ataques podem ser contra sistemas internos ou voltados para a Internet.
+*Os ataques podem ser contra sistemas internos ou voltados para a Internet.*
 
 **Detecção**:
 
@@ -212,7 +212,7 @@
     
 008. **Ransomware**
 
-*Ransomware tem sido a principal preocupação de segurança cibernética para muitas organizações nos últimos anos.
+*Ransomware tem sido a principal preocupação de segurança cibernética para muitas organizações nos últimos anos.*
 
 **Detecção**:
 
